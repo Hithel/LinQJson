@@ -1,0 +1,17 @@
+/home/apolt01-007/Documents/Hithel/LinQJson/bin/Debug/net7.0/LinQJson
+/home/apolt01-007/Documents/Hithel/LinQJson/bin/Debug/net7.0/LinQJson.deps.json
+/home/apolt01-007/Documents/Hithel/LinQJson/bin/Debug/net7.0/LinQJson.runtimeconfig.json
+/home/apolt01-007/Documents/Hithel/LinQJson/bin/Debug/net7.0/LinQJson.dll
+/home/apolt01-007/Documents/Hithel/LinQJson/bin/Debug/net7.0/LinQJson.pdb
+/home/apolt01-007/Documents/Hithel/LinQJson/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.csproj.AssemblyReference.cache
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.AssemblyInfoInputs.cache
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.AssemblyInfo.cs
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.csproj.CoreCompileInputs.cache
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.csproj.CopyComplete
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.dll
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/refint/LinQJson.dll
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.pdb
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/LinQJson.genruntimeconfig.cache
+/home/apolt01-007/Documents/Hithel/LinQJson/obj/Debug/net7.0/ref/LinQJson.dll
